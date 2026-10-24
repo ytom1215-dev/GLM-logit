@@ -1,0 +1,8 @@
+streamlit
+pandas
+statsmodels
+networkx
+matplotlib
+seaborn
+scipy
+japanize-matplotlib
